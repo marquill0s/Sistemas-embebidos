@@ -1,7 +1,7 @@
 /*
  * File:   eyek.c
 // new line
- 
+ //fuck
  */
 
 
@@ -9,6 +9,6 @@
 
 void main(void) {
     //this is a demonstration of this program
-       //sis
+
     return;
 }
